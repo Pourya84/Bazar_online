@@ -1,4 +1,4 @@
-# 🛒 Pourya Online Shop
+# 🛒 Bazar Online Shop
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-5.2-green.svg)](https://www.djangoproject.com/)
@@ -111,8 +111,8 @@ Frontend پروژه با **Django Templates** و **Bootstrap 5** ساخته شد
 
 ### ۱. دریافت پروژه
 ```bash
-git clone https://github.com/Pourya84/Pourya-Online-Shop.git
-cd Pourya-Online-Shop
+git clone https://github.com/Pourya84/Bazar_online.git
+cd Bazar_online
 ۲. ساخت محیط مجازی
 ویندوز:
 python -m venv venv
@@ -168,7 +168,7 @@ pytest --cov=. --cov-report=html
 در حال حاضر پروژه شامل ۴۸ تست با حدود ۶۶٪ Coverage است.
 
 📁 ساختار پروژه
-Pourya-Online-Shop/
+Bazar_online/
 │
 ├── accounts/          # کاربران، احراز هویت، پروفایل
 │   ├── models.py
